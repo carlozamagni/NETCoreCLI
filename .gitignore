@@ -1,0 +1,17 @@
+*.suo
+*.user
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.vs/
+.idea/
+*.orig

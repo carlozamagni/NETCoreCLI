@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCoreCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "sample -s a -s b -v"
+    }
+  }
+}
